@@ -23,7 +23,7 @@ export PRODUCT_NAME="MyFirewall"
 export PRODUCT_URL="https://PRODUCT_URL/"
 
 # Define FreeBSD repository, branch and specific commit
-#export FREEBSD_REPO_BASE=https://github.com/PiBa-NL/FreeBSD-src.git
+#export FREEBSD_REPO_BASE=https://github.com/azamatmohamadi/FreeBSD-src.git
 #export FREEBSD_BRANCH=MyFirewall_2_4
 #export GIT_FREEBSD_COSHA1=##HASH##
 
